@@ -1,7 +1,7 @@
 Hi, I’m @MTrethowan
 I am an Electronics Tech and Design Engineer for a small company that I have worked for over 24 years.
 For the last 22 years I have been programming in VB.Net professionally. Also, I  also program PIC 
-micrcontrolersin PicBasic Pro and have products at installations all over the U.S. and a few foriegn installations.
+micrcontrolers in PicBasic Pro and have products at installations all over the U.S. and a few foriegn installations.
 I am moving my projects to C# and eventually C++ in an effort to move my products from the Windows environment
 to the Linux environment. in doing so I am learning these programming environments and have decided to make available
 stripped down versions of routines that I have found useful and have seen others struggle with over the years. 
